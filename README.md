@@ -31,16 +31,7 @@ ATGCGTACGTTAGCTAGCTAACGATCGATCGTACGATCGTAGCTAGCTAGGCTAACG
 * Dictionaries
 * Loops
 * Basic string processing
-
-## 🛠️ Technologies & Tools
-
-* Python
-* Bioinformatics
-* Computational Biology
-* DNA Sequence Analysis
-* Data Analysis
-* Git & GitHub
-* Jupyter Notebook
+* Matplotlib
 
 ## 🎯 Goals
 
